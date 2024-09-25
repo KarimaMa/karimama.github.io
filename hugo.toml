@@ -1,4 +1,17 @@
 baseURL = 'https://karimama.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Karima Ma'
 theme = 'smigle'
+publishDir = 'docs'
+[params]
+  subtitle = 'Computer Science PhD at Massachusetts Institute of Technology'
+  brandIconFile = 'images/square_id_photo.jpeg'
+  Author = "Karima Ma"
+[[menu.main]]
+  Name = "Papers"
+  Url = "/papers/"
+  weight = 1
+[[menu.main]]
+  Name = "CV"
+  Url = "CV/cv.pdf"
+  weight = 2
