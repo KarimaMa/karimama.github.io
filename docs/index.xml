@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Karima Ma</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Karima Ma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m currently a PhD student in my last year at MIT advised by &lt;a href=&#34;https://people.csail.mit.edu/jrk/&#34;&gt;Jonathan Ragan-Kelley&lt;/a&gt;. Before joining MIT I received a masters in Computer Science at Carnegie Mellon and a B.A. in Economics at Dartmouth College. I&amp;rsquo;ve interned at FAIR and Adobe Research during my PhD and had the pleasure of collaborating with and learning from many people including &lt;a href=&#34;https://andrew.adams.pub/&#34;&gt;Andrew Adams&lt;/a&gt;, &lt;a href=&#34;https://people.csail.mit.edu/fredo/&#34;&gt;Fredo Durand&lt;/a&gt;, &lt;a href=&#34;https://mgharbi.com/&#34;&gt;Michaël Gharbi&lt;/a&gt;, &lt;a href=&#34;https://research.adobe.com/person/shoaib-kamil/&#34;&gt;Shoaib Kamil&lt;/a&gt;, and &lt;a href=&#34;https://cseweb.ucsd.edu/~tzli/&#34;&gt;Tzu-Mao Li&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;&#xA;&lt;p&gt;My goal is to create program synthesis environments that give users flexible control over design and implementation, from the novice who wants full automation, to the expert who wants surgical synthesis, preserving low-level control over sensitive sub-tasks. My work connects methods from domain-specific programming, high performance computing, program synthesis, and machine learning to build systems for automatic program generation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Papers</title>
+      <link>http://localhost:1313/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/</guid>
+      <description>&lt;h2 id=&#34;automatically-generating-fast-approximations-of-large-1d-and-2d-filters&#34;&gt;Automatically Generating Fast Approximations of Large 1D and 2D Filters&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;ongoing work in preparation, draft available upon request&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;sketching-with-your-voice-non-phonorealistic-rendering-of-sounds-via-vocal-imitationhttpsarxivorgabs240913507&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2409.13507&#34;&gt;Sketching with your voice: &amp;ldquo;Non-Phonorealistic&amp;rdquo; Rendering of Sounds via Vocal Imitation&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Matthew Caren, Kartik Chandra, Joshua Tenenbaum, Jonathan Ragan-Kelley, Karima Ma&#xA;ACM Transactions on Graphics (SIGGRAPH ASIA 2024)&lt;/p&gt;&#xA;&lt;h2 id=&#34;searching-for-fast-demosaicking-algorithmshttpsdlacmorgdoifull1011453508461&#34;&gt;&lt;a href=&#34;https://dl.acm.org/doi/full/10.1145/3508461&#34;&gt;Searching for Fast Demosaicking Algorithms&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Karima Ma, Michael Gharbi, Shoaib Kamil, Andrew Adams, Connelly Barnes, Tzu-Mao Li, Jonathan Ragan-Kelley&#xA;ACM Transactions on Graphics (SIGGRAPH 2022)&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
